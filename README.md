@@ -4,8 +4,8 @@ This project is a client-server chat room that incorporates a multiplayer Rock P
 \
 Chat:
 
-![Capture](https://github.com/emmanueposu/Client-Server-Chat-Game/assets/102590682/fe0a9494-0ea6-4462-a00f-d35e75189ba2)
+![Capture](https://github.com/emmanueposu/Client-Server-Chat-Game/assets/102590682/d85b2aa1-ed76-48e6-a601-231d89e961f1)
 
 Rock Paper Scissors:
 
-![Capture2](https://github.com/emmanueposu/Client-Server-Chat-Game/assets/102590682/7583990d-368e-45fb-a278-e4166e75ecc4)
+![Capture2](https://github.com/emmanueposu/Client-Server-Chat-Game/assets/102590682/3e39ea73-7392-4cfc-bd27-7066b88dac06)
